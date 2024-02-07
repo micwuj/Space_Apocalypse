@@ -13,10 +13,10 @@ Wśród meteorytów znajduje się artefakt, który potem oddajemy przybyszowi z 
 Po zebraniu wszystkich 3 gwiazdek z sukcesem ukończyliśmy grę. Gratulacje!
 
 Sterowanie:
-W - przód
-S - tył
-A - obrót w lewo
-D - obrót w prawo
+W - przód \n
+S - tył\n
+A - obrót w lewo\n
+D - obrót w prawo\n
 Z - lewo
 X - prawo
 L_Shift - opadanie
