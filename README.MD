@@ -1,5 +1,5 @@
-Space Odyssey - Apocalypse edition - projekt na przedmiot Grafika Komputerowa  
-Twórcy gry: Daria Dworzyńska, Michał Wujec, Liubou Kastsiukevich  
+# Space Odyssey - Apocalypse edition - projekt na przedmiot Grafika Komputerowa  
+## Twórcy gry: Daria Dworzyńska, Michał Wujec, Liubou Kastsiukevich  
 
 Cel gry: Głównym zadaniem gracza jest zebranie wszystkich (3) gwiazdek, które ukryte są w różnych miejscach na planszy.  
 Gracz rozpoczyna grę w układzie planetarnym, w którym znajdziemy różne planety, czy latające ufo.  
@@ -27,12 +27,12 @@ M - teleportacja na planetę
 F - deszcz meteorytów/trzęsienie ziemi  
 
 Wykorzystane technologie:  
-- mapowanie normalnych  
-- PBR  
+- **mapowanie normalnych**
+- **PBR** - zaaawansowane tekstury, cienie i odbcia
 ![alt text](https://github.com/micwuj/Space_Apocalypse/blob/main/Photos/PBR_Shadow.png?raw=true)  
-- bloom  
+- **bloom**  
 ![alt text](https://github.com/micwuj/Space_Apocalypse/blob/main/Photos/Bloom.png?raw=true)  
-- animacje  
+- **animacje** - deszcz meteorytow oraz animacja startu statku kosmicznego  
 ![alt text](https://github.com/micwuj/Space_Apocalypse/blob/main/Photos/Asteroids.png?raw=true)  
 ![alt text](https://github.com/micwuj/Space_Apocalypse/blob/main/Photos/land.png?raw=true)  
 W projekcie możemy zobaczyć wykorzystanie cieni, realistycznego oświetlenia, jak i tekstury wysokiej jakości.   
