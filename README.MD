@@ -27,12 +27,17 @@ M - teleportacja na planetę
 F - deszcz meteorytów/trzęsienie ziemi  
 
 Wykorzystane technologie:  
-- **mapowanie normalnych**
-- **PBR** - zaaawansowane tekstury, cienie i odbcia
+- **Normal Mapping**  
+- **PBR** - zaaawansowane tekstury, cienie i odbcia  
+
 ![alt text](https://github.com/micwuj/Space_Apocalypse/blob/main/Photos/PBR_Shadow.png?raw=true)  
-- **bloom**  
+
+- **BLOOM**  
+
 ![alt text](https://github.com/micwuj/Space_Apocalypse/blob/main/Photos/Bloom.png?raw=true)  
-- **animacje** - deszcz meteorytow oraz animacja startu statku kosmicznego  
+
+- **Animations** - deszcz meteorytow oraz animacja startu statku kosmicznego  
+
 ![alt text](https://github.com/micwuj/Space_Apocalypse/blob/main/Photos/Asteroids.png?raw=true)  
 ![alt text](https://github.com/micwuj/Space_Apocalypse/blob/main/Photos/land.png?raw=true)  
 W projekcie możemy zobaczyć wykorzystanie cieni, realistycznego oświetlenia, jak i tekstury wysokiej jakości.   
