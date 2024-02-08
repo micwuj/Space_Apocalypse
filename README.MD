@@ -29,7 +29,11 @@ F - deszcz meteorytów/trzęsienie ziemi
 Wykorzystane technologie:  
 - mapowanie normalnych  
 - PBR  
+![alt text](https://github.com/micwuj/Space_Apocalypse/blob/main/Photos/PBR_Shadow.png?raw=true)  
 - bloom  
+![alt text](https://github.com/micwuj/Space_Apocalypse/blob/main/Photos/Bloom.png?raw=true)  
 - animacje  
+![alt text](https://github.com/micwuj/Space_Apocalypse/blob/main/Photos/Asteroids.png?raw=true)  
+![alt text](https://github.com/micwuj/Space_Apocalypse/blob/main/Photos/land.png?raw=true)  
 W projekcie możemy zobaczyć wykorzystanie cieni, realistycznego oświetlenia, jak i tekstury wysokiej jakości.   
 Co więcej mamy dostępne dynamiczne sterowanie statkiem, które umożliwia interakcję z otoczeniem i wykonanie zadanych misji.  
